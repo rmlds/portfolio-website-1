@@ -48,7 +48,7 @@
   -webkit-background-clip: text;
   background-clip: text;
 }
-/*
+
 @media (max-width: 580px) {
   .text-branding {
     font-size: 20vw !important;
@@ -60,4 +60,3 @@
     font-size: 15vw !important;
   }
 }
-*/
